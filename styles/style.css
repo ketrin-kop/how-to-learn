@@ -312,7 +312,7 @@
   margin: 60px auto 40px;
   width: 90%;
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
 }
 
 .footer__column_content_copyright {
