@@ -91,6 +91,9 @@ to {
   right: 0;
   top: 64px;
   z-index: -2;
+}
+
+.rotation {
   animation: rotation 20s linear infinite;
 }
 
@@ -186,6 +189,7 @@ to {
   line-height: 23px;
   font-size: 18px;
   font-weight: normal;
+  max-width: 230px;
 }
 
 .digits {
@@ -274,7 +278,7 @@ to {
 }
 
 .khan {
-  padding-top: 106px;
+  padding-top: 105px;
   background-color: #f2f2f2;
 }
 
@@ -436,7 +440,6 @@ to {
   right: -210px;
   top: 0;
   z-index: -1;
-  animation: rotation 20s linear infinite;
 }
 
 .resources {
